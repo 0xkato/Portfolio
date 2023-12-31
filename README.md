@@ -1,4 +1,4 @@
-# 0xkato audit reports
+# 0xkato's security reviews
 
 This repo is made to showcase some of the security reviews that I have done/participated in
 
@@ -7,16 +7,16 @@ This repo is made to showcase some of the security reviews that I have done/part
 | protocol | report |
 | ---- |  ---------|
 | [GMX](https://gmx.io/#/) | [reports](Guardian/GMX)
-| [Abracadabra](https://abracadabra.money/) | [reports](https://github.com/0xkato/Portfolio/blob/main/Guardian/11-14-2023_Abracadabra_GMXV2.pdf)
+| [Abracadabra](https://abracadabra.money/) | [report](https://github.com/0xkato/Portfolio/blob/main/Guardian/11-14-2023_Abracadabra_GMXV2.pdf)
 | [Poolshark](https://www.poolshark.fi/) | [reports](Guardian/Poolshark)
-| [IVX](https://www.ivx.fi/) | [reports](https://github.com/0xkato/Portfolio/blob/main/Guardian/09-13-2023-IVX.pdf)
-| [PariFi](https://parifi.org/) | [reports](https://github.com/0xkato/Portfolio/blob/main/Guardian/09-03-2023-PariFi.pdf)
+| [IVX](https://www.ivx.fi/) | [report](https://github.com/0xkato/Portfolio/blob/main/Guardian/09-13-2023-IVX.pdf)
+| [PariFi](https://parifi.org/) | [report](https://github.com/0xkato/Portfolio/blob/main/Guardian/09-03-2023-PariFi.pdf)
 
 ### Solo audits
 
 | protocol | report |
 | ---- | --------- |
-| [Lexer Markets](https://www.lexer.markets/) | [reports](https://github.com/0xkato/Portfolio/blob/main/Solo/Security_Review_Lexer_Markets_Final_Report.pdf)
+| [Lexer Markets](https://www.lexer.markets/) | [report](https://github.com/0xkato/Portfolio/blob/main/Solo/Security_Review_Lexer_Markets_Final_Report.pdf)
 
 
 ### Contract
