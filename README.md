@@ -12,7 +12,7 @@ This repo is made to showcase some of the security reviews that I have done/part
 | [IVX](https://www.ivx.fi/) | [report](https://github.com/0xkato/Portfolio/blob/main/Guardian/09-13-2023-IVX.pdf)
 | [PariFi](https://parifi.org/) | [report](https://github.com/0xkato/Portfolio/blob/main/Guardian/09-03-2023-PariFi.pdf)
 
-### Solo audits
+### Private audits
 
 | protocol | report |
 | ---- | --------- |
