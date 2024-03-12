@@ -20,7 +20,7 @@ This repo is made to showcase some of the security reviews that I have done/part
 | ---- |  ---------| ---------|
 | [Lexer Markets](https://www.lexer.markets/) | Derivatives | [Report](https://github.com/0xkato/Portfolio/blob/main/Solo/Security_Review_Lexer_Markets_Final_Report.pdf)
 | [Ambit](https://ambit.finance/) | Lending | [Report](https://docs.ambit.finance/audits/0xweiss-feb24.pdf)
-| [Ceden Network](https://ceden.network/) |  | [Report]()
+| [Ceden Network](https://ceden.network/) |  | 
 
 ### Contract
 
