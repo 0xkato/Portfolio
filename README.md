@@ -22,6 +22,6 @@ This repo is made to showcase some of the security reviews that I have done/part
 | [Ambit](https://ambit.finance/) | Lending | [Report](https://docs.ambit.finance/audits/0xweiss-feb24.pdf)
 | [Ceden Network](https://ceden.network/) |  | 
 
-### Contract
+### Contact
 
 If you want to talk security I can be reached [@0xkato](http://twitter.com/0xkato).
