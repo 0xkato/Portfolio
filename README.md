@@ -22,6 +22,15 @@ This repo is made to showcase some of the security reviews that I have done/part
 | [Ambit](https://ambit.finance/) | Lending | [Report](https://docs.ambit.finance/audits/0xweiss-feb24.pdf)
 | [Ceden Network](https://ceden.network/) |  | 
 
+### Security Audits
+| Protocol | Protocol Type | Report |
+| ---- |  ---------| ---------|
+| [Espresso Systems](https://www.espressosys.com/) | Consensus and node implementation | [Reports](https://github.com/EspressoSystems/espresso-audits/tree/main/internal-reviews)
+
+
+[A Security Engineer's Guide to Getting Ready for an Audit!](https://www.0xkato.xyz/Get-ready-for-an-audit/)
+
+
 ### Contact
 
 If you want to talk security I can be reached [@0xkato](http://twitter.com/0xkato).
