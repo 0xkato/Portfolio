@@ -9,7 +9,7 @@ This repo is made to showcase some of the security reviews that I have done/part
 | ---- |  ---------| ---------|
 | [Espresso Systems](https://www.espressosys.com/) | HotShot Consensus Protocol | [Report](https://github.com/0xkato/Portfolio/blob/main/Espresso/HotShot/EspressoHotshot2024.pdf)
 | [Espresso Systems](https://www.espressosys.com/) | HotStuff Consensus Mechanism | [Report](https://github.com/0xkato/Portfolio/blob/main/Espresso/HotShot/EspressoHotstuff22025.pdf)
-| [Espresso Systems](https://www.espressosys.com/) | Rewards Mechanism | [Report](https://github.com/0xkato/Portfolio/blob/main/Espresso/HotShot/Rewards2025.pdf)
+| [Espresso Systems](https://www.espressosys.com/) | Consensus Rewards Mechanism | [Report](https://github.com/0xkato/Portfolio/blob/main/Espresso/HotShot/Rewards2025.pdf)
 | [Espresso Systems](https://www.espressosys.com/) | Nitro Caffeinated Node | [Report](https://github.com/0xkato/Portfolio/blob/main/Espresso/Integration/EspressoNitroCaffeinatedNode2025.pdf)
 | [Espresso Systems](https://www.espressosys.com/) | Nitro Stateless Batcher V1 | [Report](https://github.com/0xkato/Portfolio/blob/main/Espresso/Integration/StatelessBatcherV12025.pdf)
 | [Espresso Systems](https://www.espressosys.com/) | Fee Contract | [Report](https://github.com/0xkato/Portfolio/blob/main/Espresso/Sequencer/EspressoFeeContract2024.pdf)
