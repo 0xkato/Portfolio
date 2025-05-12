@@ -24,7 +24,7 @@ This repo is made to showcase some of the security reviews that I have done/part
 | [Hyperstable](https://hyperstable.xyz/) |  | 
 
 
-### Security Audits
+### Espresso Audits
 | Protocol | Protocol Type | Report |
 | ---- |  ---------| ---------|
 | [Espresso Systems](https://www.espressosys.com/) | HotShot Consensus Protocol | [Report](https://github.com/0xkato/Portfolio/blob/main/Espresso/HotShot/EspressoHotshot2024.pdf)
