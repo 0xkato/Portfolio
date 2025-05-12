@@ -21,11 +21,21 @@ This repo is made to showcase some of the security reviews that I have done/part
 | [Lexer Markets](https://www.lexer.markets/) | Derivatives | [Report](https://github.com/0xkato/Portfolio/blob/main/Solo/Security_Review_Lexer_Markets_Final_Report.pdf)
 | [Ambit](https://ambit.finance/) | Lending | [Report](https://docs.ambit.finance/audits/0xweiss-feb24.pdf)
 | [Ceden Network](https://ceden.network/) |  | 
+| [Hyperstable](https://hyperstable.xyz/) |  | 
+
 
 ### Security Audits
 | Protocol | Protocol Type | Report |
 | ---- |  ---------| ---------|
-| [Espresso Systems](https://www.espressosys.com/) | Consensus and node implementation | [Reports](https://github.com/EspressoSystems/espresso-audits/tree/main/internal-reviews)
+| [Espresso Systems](https://www.espressosys.com/) | HotShot Consensus Protocol | [Report](https://github.com/0xkato/Portfolio/Espresso/HotShot/EspressoHotshot2024.pdf)
+| [Espresso Systems](https://www.espressosys.com/) | HotStuff Consensus Mechanism | [Report](https://github.com/0xkato/Portfolio/Espresso/HotShot/EspressoHotstuff22025.pdf)
+| [Espresso Systems](https://www.espressosys.com/) | Rewards Mechanism | [Report](https://github.com/0xkato/Portfolio/Espresso/HotShot/Rewards2025.pdf)
+
+| [Espresso Systems](https://www.espressosys.com/) | Nitro Caffeinated Node | [Report](https://github.com/0xkato/Portfolio/Espresso/Integration/EspressoNitroCaffeinatedNode2025.pdf)
+| [Espresso Systems](https://www.espressosys.com/) | Stateless Batcher V1 | [Report](https://github.com/0xkato/Portfolio/Espresso/Integration/StatelessBatcherV12025.pdf)
+
+| [Espresso Systems](https://www.espressosys.com/) | Fee Contract | [Report](https://github.com/0xkato/Portfolio/Espresso/Sequencer/EspressoFeeContract2024.pdf)
+| [Espresso Systems](https://www.espressosys.com/) | Sequencer | [Report](https://github.com/0xkato/Portfolio/Espresso/Sequencer/EspressoSequencer2024.pdf)
 
 
 [A Security Engineer's Guide to Getting Ready for an Audit!](https://www.0xkato.xyz/Get-ready-for-an-audit/)
