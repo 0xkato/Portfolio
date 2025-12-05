@@ -1,4 +1,13 @@
-[A Security Engineer's Guide to Getting Ready for an Audit!](https://www.0xkato.xyz/Get-ready-for-an-audit/)
+- [A Security Engineer's Guide to Getting Ready for an Audit!](https://www.0xkato.xyz/Get-ready-for-an-audit/)
+- [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/) — [[Featured on HN (peak rank 1)]](https://news.ycombinator.com/item?id=45707658)
+- [A Friendly Tour of Process Memory on Linux](https://www.0xkato.xyz/linux-process-memory/) — [[Featured on HN (peak rank 3)]](https://news.ycombinator.com/item?id=45805539)
+
+### Vulnerability Research
+
+| description | link |
+| ---- |  ---------|
+| [Command injection in `fmt::say()` on macOS) | [link](https://github.com/fmtlib/fmt/security/advisories/GHSA-65g5-63wg-xjh4) |
+| [More to come) | ... |
 
 # 0xkato's security reviews
 
