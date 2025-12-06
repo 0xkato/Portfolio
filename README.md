@@ -6,10 +6,14 @@
 
 ### Vulnerability Research
 
-| description | link |
-| ---- |  ---------|
-| [Command injection in `fmt::say()` on macOS) | [link](https://github.com/fmtlib/fmt/security/advisories/GHSA-65g5-63wg-xjh4) |
-| [More to come) | ... |
+| Protocol | description | link |
+| -------- | ---- |  ---------|
+| [fmt](https://github.com/fmtlib/fmt) | Command injection in `fmt::say()` on macOS | [link](https://github.com/fmtlib/fmt/security/advisories/GHSA-65g5-63wg-xjh4) |
+| [keepassxc](https://github.com/keepassxreboot/keepassxc) | Missing check for duplicate group UUID causes crash | [link](https://github.com/keepassxreboot/keepassxc/issues/12706) |
+| [prometheus](https://github.com/prometheus/prometheus) | tsdb: guard chunk length overflow in head chunk reader | [link](https://github.com/prometheus/prometheus/pull/17533#event-20963840575) |
+| [prometheus](https://github.com/prometheus/prometheus) | size caps to all important Snappy/OTLP remote read/write decoders | [link](https://github.com/prometheus/prometheus/pull/17545) |
+| [prometheus](https://github.com/prometheus/prometheus) | iterating over histogram buckets can panic | [link](https://github.com/prometheus/prometheus/pull/17559) |
+| [prometheus](https://github.com/prometheus/prometheus) | Missing histogram validation in remote-read and during reducing resolution | [link](https://github.com/prometheus/prometheus/pull/17561) |
 
 # 0xkato's security reviews
 
