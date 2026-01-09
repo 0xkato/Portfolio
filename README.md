@@ -16,6 +16,7 @@
 | [prometheus](https://github.com/prometheus/prometheus) | iterating over histogram buckets can panic | [link](https://github.com/prometheus/prometheus/pull/17559) |
 | [prometheus](https://github.com/prometheus/prometheus) | Missing histogram validation in remote-read and during reducing resolution | [link](https://github.com/prometheus/prometheus/pull/17561) |
 | [serialize](https://github.com/mas-bandwidth/serialize) | Buffer Overflow in Serialize Library | [link](https://github.com/mas-bandwidth/serialize/pull/9) |
+| [sliver](https://github.com/BishopFox/sliver) | Pre-Auth Memory Exhaustion via NoEncoder Bypass | [link](https://github.com/BishopFox/sliver/security/advisories/GHSA-hjr9-wj7v-7hv8) |
 
 # 0xkato's security reviews
 
