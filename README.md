@@ -1,9 +1,3 @@
-- [A Security Engineer's Guide to Getting Ready for an Audit!](https://www.0xkato.xyz/Get-ready-for-an-audit/)
-- [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/) — [[Featured on HN (peak rank 1)]](https://news.ycombinator.com/item?id=45707658)
-- [A Friendly Tour of Process Memory on Linux](https://www.0xkato.xyz/linux-process-memory/) — [[Featured on HN (peak rank 3)]](https://news.ycombinator.com/item?id=45805539)
-- [The Life of a Packet in the Linux kernel](https://www.0xkato.xyz/Get-ready-for-an-audit/](https://www.0xkato.xyz/life-of-a-packet-in-the-linux-kernel/))
-- [How CPU Caches Work](https://www.0xkato.xyz/How-CPU-Caches-Work/)
-
 
 ### Vulnerability Research
 
@@ -54,6 +48,14 @@ This repo is made to showcase some of the security reviews that I have done/part
 | [Ambit](https://ambit.finance/) | Lending | [Report](https://docs.ambit.finance/audits/0xweiss-feb24.pdf)
 | [Ceden Network](https://ceden.network/) |  | 
 | [Hyperstable](https://hyperstable.xyz/) |  | 
+
+### Writing
+
+- [A Security Engineer's Guide to Getting Ready for an Audit!](https://www.0xkato.xyz/Get-ready-for-an-audit/)
+- [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/) — [[Featured on HN (peak rank 1)]](https://news.ycombinator.com/item?id=45707658)
+- [A Friendly Tour of Process Memory on Linux](https://www.0xkato.xyz/linux-process-memory/) — [[Featured on HN (peak rank 3)]](https://news.ycombinator.com/item?id=45805539)
+- [The Life of a Packet in the Linux kernel](https://www.0xkato.xyz/Get-ready-for-an-audit/](https://www.0xkato.xyz/life-of-a-packet-in-the-linux-kernel/))
+- [How CPU Caches Work](https://www.0xkato.xyz/How-CPU-Caches-Work/)
 
 ### Contact
 
