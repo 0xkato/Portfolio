@@ -1,3 +1,5 @@
+## This repo is made to showcase some of the security work that I have done/participated in
+
 
 ### Vulnerability Research
 
@@ -13,9 +15,7 @@
 | [sliver](https://github.com/BishopFox/sliver) | Pre-Auth Memory Exhaustion via NoEncoder Bypass | [link](https://github.com/advisories/GHSA-hjr9-wj7v-7hv8) |
 | [zephyr](https://github.com/zephyrproject-rtos/zephyr) | memory‑safety issue in the DNS name parser | [link](http://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-536f-h63g-hj42) |
 
-# 0xkato's security reviews
-
-This repo is made to showcase some of the security reviews that I have done/participated in
+# 0xkato's security audits
 
 ### Espresso Audits
 | Protocol | Protocol Type | Report |
