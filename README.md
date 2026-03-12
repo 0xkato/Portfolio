@@ -14,6 +14,8 @@
 | [serialize](https://github.com/mas-bandwidth/serialize) | Buffer Overflow in Serialize Library | [link](https://github.com/mas-bandwidth/serialize/pull/9) |
 | [sliver](https://github.com/BishopFox/sliver) | Pre-Auth Memory Exhaustion via NoEncoder Bypass | [link](https://github.com/advisories/GHSA-hjr9-wj7v-7hv8) |
 | [zephyr](https://github.com/zephyrproject-rtos/zephyr) | memory‑safety issue in the DNS name parser | [link](http://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-536f-h63g-hj42) |
+| [valkey](https://github.com/valkey-io/valkey) | Remote DoS with malformed Valkey Cluster bus message | [link](https://github.com/valkey-io/valkey/security/advisories/GHSA-c677-q3wr-gggq) |
+
 
 ### Espresso Audits
 | Protocol | Protocol Type | Report |
