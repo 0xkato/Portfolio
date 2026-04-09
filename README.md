@@ -15,7 +15,7 @@
 | [sliver](https://github.com/BishopFox/sliver) | Pre-Auth Memory Exhaustion via NoEncoder Bypass | [link](https://github.com/advisories/GHSA-hjr9-wj7v-7hv8) |
 | [zephyr](https://github.com/zephyrproject-rtos/zephyr) | memory‑safety issue in the DNS name parser | [link](http://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-536f-h63g-hj42) |
 | [valkey](https://github.com/valkey-io/valkey) | Remote DoS with malformed Valkey Cluster bus message | [link](https://github.com/valkey-io/valkey/security/advisories/GHSA-c677-q3wr-gggq) |
-
+| [linux](https://github.com/torvalds/linux) | OOB write in attr_wof_frame_info() | [link](https://lore.kernel.org/ntfs3/3d346545-11c0-495c-80dc-647ca7540e0b@paragon-software.com/) |
 
 ### Espresso Audits
 | Protocol | Protocol Type | Report |
