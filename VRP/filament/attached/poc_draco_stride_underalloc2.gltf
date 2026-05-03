@@ -1,0 +1,88 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ],
+  "buffers": [
+    {
+      "uri": "FlightHelmet.bin",
+      "byteLength": 501824
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 59806
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5123,
+      "count": 24408,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 8468,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 8468,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 8468,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 8468,
+      "type": "SCALAR"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "TEXCOORD_0": 1,
+            "NORMAL": 2,
+            "TANGENT": 3,
+            "POSITION": 4
+          },
+          "indices": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "TEXCOORD_0": 0,
+                "NORMAL": 1,
+                "TANGENT": 2,
+                "POSITION": 3
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0
+}
