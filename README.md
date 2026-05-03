@@ -58,6 +58,7 @@
 - [A Friendly Tour of Process Memory on Linux](https://www.0xkato.xyz/linux-process-memory/) — [[Featured on HN (peak rank 3)]](https://news.ycombinator.com/item?id=45805539)
 - [The Life of a Packet in the Linux kernel](https://www.0xkato.xyz/life-of-a-packet-in-the-linux-kernel/)
 - [How CPU Caches Work](https://www.0xkato.xyz/How-CPU-Caches-Work/)
+- [CVE-2026-1678: DNS Parser Overflow in Zephyr](https://www.0xkato.xyz/CVE-2026-1678-DNS-Parser-Overflow-in-Zephyr/)
 
 ### Contact
 
