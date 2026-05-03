@@ -16,6 +16,8 @@
 | [zephyr](https://github.com/zephyrproject-rtos/zephyr) | memory‑safety issue in the DNS name parser | [link](http://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-536f-h63g-hj42) |
 | [valkey](https://github.com/valkey-io/valkey) | Remote DoS with malformed Valkey Cluster bus message | [link](https://github.com/valkey-io/valkey/security/advisories/GHSA-c677-q3wr-gggq) |
 | [linux](https://github.com/torvalds/linux) | OOB write in attr_wof_frame_info() | [link](https://lore.kernel.org/ntfs3/20260329115757.66040-1-0xkkato@gmail.com/) |
+| [Filament](github.com/google/filament) | Heap buffer overflow (OOB write) in Filament gltfio meshopt decompression due to size_t overflow | [Not published on Google's end yet](./VRP/filament/issue1.md) |
+| [Filament](github.com/google/filament) | Heap buffer overflow (OOB write) in Filament gltfio Draco decode due to type mismatch | [Not published on Google's end yet](./VRP/filament/issue2.md) |
 
 ### Espresso Audits
 | Protocol | Protocol Type | Report |

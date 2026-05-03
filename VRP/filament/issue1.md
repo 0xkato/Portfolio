@@ -14,6 +14,7 @@ meshopt_decodeVertexBuffer() then writes decoded output into this undersized buf
 ```
 ./attach/run1.sh
 ```
+
 ```
 =================================================================
 ==89390==ERROR: AddressSanitizer: heap-buffer-overflow on address 0x611000006cc0 at pc 0x0001064f312c bp 0x00016f31d870 sp 0x00016f31d020
